@@ -1,8 +1,7 @@
 {
-  "name": "vite-project",
+  "name": "metrica-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://railakhmerov.github.io/SD-CODE__Metrica-React",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -41,7 +41,7 @@ function ProjectsSection() {
             level="h2"
             text="ПРОЕКТЫ"
          />
-
+      <div className="projects">
          { projects.map(project => (
                <ProjectCard 
                   isNew={project.isNew}
@@ -52,6 +52,7 @@ function ProjectsSection() {
                   image={project.image}
                />
          )) }
+      </div>
 
          <Button
             section="projects-section__btn"

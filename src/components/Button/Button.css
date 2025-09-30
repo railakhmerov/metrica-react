@@ -9,7 +9,7 @@
 
 .projects-section__btn {
     padding: 55px;
-    max-width: 100%;
+    min-width: 100%;
     border: none;
     border: 1px solid #AD1818;
     font-size: 30px;
