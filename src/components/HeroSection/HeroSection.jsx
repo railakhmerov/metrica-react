@@ -1,6 +1,6 @@
 import React from "react";
 import Heading from "../Heading/Heading";
-import './HeroSection.css';
+import './HeroSection.css'
 
 function HeroSection() {
    return(
