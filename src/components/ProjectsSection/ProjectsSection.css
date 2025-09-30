@@ -1,0 +1,29 @@
+.projects-section {
+    margin-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+}
+.project {
+    position: relative;
+}
+.project__is-new {
+    max-width: max-content;
+    position: relative;
+    top: 90px;
+    left: 25px;
+    padding: 20px 40px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #B3D000;
+}
+.project__image {
+    margin-bottom: 15px;
+}
+.project__info {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.project__link {
+    color: #AD1818;
+}

@@ -1,0 +1,16 @@
+.hero-section {
+    margin-bottom: 150px;
+}
+.hero-section__bg-image {
+    min-height: 500px;
+    max-width: 100%;
+    background-image: url('../../assets/hero-section-bg-img.jpg');
+}
+.hero-section__text {
+    max-width: 430px;
+    position: relative;
+    top: 379px;
+    left: 40px;
+    font-size: 20px;   
+    color: #ffffff;
+}
