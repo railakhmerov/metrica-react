@@ -1,8 +1,7 @@
 {
   "name": "metrica-react",
   "private": true,
-  "homepage" : "https://railakhmerov.github.io/SD-CODE__Metrica-React",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
